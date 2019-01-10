@@ -13,8 +13,8 @@
             "id": "https://dillingus.github.io/Publii-El-Fiduciario/prueba-para-github-pages.html",
             "url": "https://dillingus.github.io/Publii-El-Fiduciario/prueba-para-github-pages.html",
             "title": "Prueba para Github Pages",
-            "summary": "Solo porque me obliga a tener un post listo.",
-            "content_html": "Solo porque me obliga a tener un post listo.",
+            "summary": " Solo porque me obliga a tener un post listo. Estaba demasiado cerca del t[itulo esa linea. ",
+            "content_html": "<p> </p>\n<p>Solo porque me obliga a tener un post listo.</p>\n<p>Estaba demasiado cerca del t[itulo esa linea. </p>",
             "image": "https://dillingus.github.io/Publii-El-Fiduciario/media/posts/1/",
             "author": {
                 "name": "Daniel"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-01-09T22:27:33-05:00",
-            "date_modified": "2019-01-09T22:27:33-05:00"
+            "date_modified": "2019-01-09T23:05:45-05:00"
         }
     ]
 }

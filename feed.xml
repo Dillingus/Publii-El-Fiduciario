@@ -3,16 +3,38 @@
     <title>El Fiduciario | Fideicomisos y Encargos Fiduciarios</title>
     <link href="http://elfiduciario.com/feed.xml" rel="self" />
     <link href="http://elfiduciario.com" />
-    <updated>2019-01-09T23:30:56-05:00</updated>
+    <updated>2019-01-09T23:37:14-05:00</updated>
     <author>
-        <name>Daniel</name>
+        <name>Daniel Illingworth</name>
     </author>
     <id>http://elfiduciario.com</id>
 
     <entry>
+        <title>La gran puta</title>
+        <author>
+            <name>Daniel Illingworth</name>
+        </author>
+        <link href="http://elfiduciario.com/la-gran-puta.html"/>
+        <id>http://elfiduciario.com/la-gran-puta.html</id>
+
+        <updated>2019-01-09T23:37:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://elfiduciario.com/media/posts/2/" alt="" />
+                    Odio que las cosas no sirvan cuando las necesito.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://elfiduciario.com/media/posts/2/" alt="" />
+                Odio que las cosas no sirvan cuando las necesito.
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Prueba para Github Pages</title>
         <author>
-            <name>Daniel</name>
+            <name>Daniel Illingworth</name>
         </author>
         <link href="http://elfiduciario.com/prueba-para-github-pages.html"/>
         <id>http://elfiduciario.com/prueba-para-github-pages.html</id>

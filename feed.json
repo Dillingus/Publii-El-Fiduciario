@@ -6,9 +6,24 @@
     "feed_url": "http://elfiduciario.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Daniel"
+        "name": "Daniel Illingworth"
     },
     "items": [
+        {
+            "id": "http://elfiduciario.com/la-gran-puta.html",
+            "url": "http://elfiduciario.com/la-gran-puta.html",
+            "title": "La gran puta",
+            "summary": "Odio que las cosas no sirvan cuando las necesito.",
+            "content_html": "Odio que las cosas no sirvan cuando las necesito.",
+            "image": "http://elfiduciario.com/media/posts/2/",
+            "author": {
+                "name": "Daniel Illingworth"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-09T23:37:03-05:00",
+            "date_modified": "2019-01-09T23:37:03-05:00"
+        },
         {
             "id": "http://elfiduciario.com/prueba-para-github-pages.html",
             "url": "http://elfiduciario.com/prueba-para-github-pages.html",
@@ -17,7 +32,7 @@
             "content_html": "<p> </p>\n<p>Solo porque me obliga a tener un post listo.</p>\n<p>Estaba demasiado cerca del t[itulo esa linea. </p>",
             "image": "http://elfiduciario.com/media/posts/1/",
             "author": {
-                "name": "Daniel"
+                "name": "Daniel Illingworth"
             },
             "tags": [
             ],

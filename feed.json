@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "El Fiduciario | Fideicomisos y Encargos Fiduciarios",
     "description": "",
-    "home_page_url": "https://elfiduciario.com",
-    "feed_url": "https://elfiduciario.com/feed.json",
+    "home_page_url": "http://elfiduciario.com",
+    "feed_url": "http://elfiduciario.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Daniel"
     },
     "items": [
         {
-            "id": "https://elfiduciario.com/prueba-para-github-pages.html",
-            "url": "https://elfiduciario.com/prueba-para-github-pages.html",
+            "id": "http://elfiduciario.com/prueba-para-github-pages.html",
+            "url": "http://elfiduciario.com/prueba-para-github-pages.html",
             "title": "Prueba para Github Pages",
             "summary": " Solo porque me obliga a tener un post listo. Estaba demasiado cerca del t[itulo esa linea. ",
             "content_html": "<p> </p>\n<p>Solo porque me obliga a tener un post listo.</p>\n<p>Estaba demasiado cerca del t[itulo esa linea. </p>",
-            "image": "https://elfiduciario.com/media/posts/1/",
+            "image": "http://elfiduciario.com/media/posts/1/",
             "author": {
                 "name": "Daniel"
             },

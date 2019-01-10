@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>El Fiduciario | Fideicomisos y Encargos Fiduciarios</title>
-    <link href="https://elfiduciario.com/feed.xml" rel="self" />
-    <link href="https://elfiduciario.com" />
-    <updated>2019-01-09T23:06:30-05:00</updated>
+    <link href="http://elfiduciario.com/feed.xml" rel="self" />
+    <link href="http://elfiduciario.com" />
+    <updated>2019-01-09T23:07:58-05:00</updated>
     <author>
         <name>Daniel</name>
     </author>
-    <id>https://elfiduciario.com</id>
+    <id>http://elfiduciario.com</id>
 
     <entry>
         <title>Prueba para Github Pages</title>
         <author>
             <name>Daniel</name>
         </author>
-        <link href="https://elfiduciario.com/prueba-para-github-pages.html"/>
-        <id>https://elfiduciario.com/prueba-para-github-pages.html</id>
+        <link href="http://elfiduciario.com/prueba-para-github-pages.html"/>
+        <id>http://elfiduciario.com/prueba-para-github-pages.html</id>
 
         <updated>2019-01-09T23:05:45-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://elfiduciario.com/media/posts/1/" alt="" />
+                        <img src="http://elfiduciario.com/media/posts/1/" alt="" />
                      Solo porque me obliga a tener un post listo. Estaba demasiado cerca del t[itulo esa linea. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://elfiduciario.com/media/posts/1/" alt="" />
+                    <img src="http://elfiduciario.com/media/posts/1/" alt="" />
                 <p> </p>
 <p>Solo porque me obliga a tener un post listo.</p>
 <p>Estaba demasiado cerca del t[itulo esa linea. </p>
